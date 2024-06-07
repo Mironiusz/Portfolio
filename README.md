@@ -1,7 +1,7 @@
 
 # Portfolio
 ## Here you can find out why I am the greatest copywriter and programmer - and why you should hire me. 
-You can check all of my projects on GitHub and projects that are not here (websites and ads). Let's dive into it.
+You can check all of my projects that are on GitHub and projects that are not here (websites and ads). Let's dive into it.
 
 ## RMD Solutions Projects
 
