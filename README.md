@@ -20,7 +20,7 @@ We're continuously working on new amazing projects. Here are a few we're current
 - [Raj Spa - Wrota Świadomości](https://www.rajspa.pl/wrota-swiadomosci)
 - [Ice Navigator](https://icenavigator.is/)
 
-## Projects on GitHub - done while studying at Warsaw University of Technology.
+## Projects on GitHub - done while studying at Warsaw University of Technology
 
 ### Mandelbrot Visualization [link](https://github.com/Mironiusz/mandelbrot-set-asm-x64)
 
