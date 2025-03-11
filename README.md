@@ -1,7 +1,7 @@
 
 # Portfolio
-## Here you can find out why I am the greatest copywriter and programmer - and why you should hire me. 
-You can check all of my projects that are on GitHub and projects that are not here (websites and ads). Let's dive into it.
+## Very happy you are here! Check out my best projects and decide, if we are a good fit. 
+You can check all of my projects on GitHub and projects that are not here (websites and ads). Let's dive into it.
 
 ## RMD Solutions Projects
 
@@ -16,8 +16,8 @@ My biggest project so far. It is a web app allowing users to post and find tutor
 
 ### Ongoing Projects
 We're continuously working on new amazing projects. Here are a few we're currently developing:
+- [Noi Hamburg](https://noi-shop.de/)
 - [Aga Tarajko-Bak](https://agatarajko-bak.pl/)
-- [Raj Spa - Wrota Świadomości](https://www.rajspa.pl/wrota-swiadomosci)
 - [Ice Navigator](https://icenavigator.is/)
 
 ## Projects on GitHub - done while studying at Warsaw University of Technology
@@ -58,21 +58,6 @@ They forced us to do something eco-friendly, so here it is, enjoy!
 - Our own API
 
 **Technologies Used:** Vue.js 3.3.12, Django REST framework, Micropython
-
----
-
-
-### Bank Application [link](https://github.com/Mironiusz/pipr-bank-project)
-
-That was my first object-oriented project, back then I was a terrible programmer. Don't bother checking it out. 
-
-**Features:**
-- GUI
-- Simulates a Simple Bank
-
-**Technologies Used:** Python, Tkinter
-
----
 
 Stay tuned for more updates as we expand our portfolio with mooooore solutions.
 
